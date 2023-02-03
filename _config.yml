@@ -1,0 +1,12 @@
+# Site Settings
+title: Situs Jual Madu HNI Terlengkap, Mudah &amp; Aman
+name: AVO Kandra
+url:
+baseurl:
+
+# Collections
+collections:
+    products:
+        permalink: /:collection/:name
+        output: true
+

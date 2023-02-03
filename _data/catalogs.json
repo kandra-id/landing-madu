@@ -1,0 +1,27 @@
+[
+    { 
+    "nama": "MADU PAHIT",
+    "harga": 120000,
+    "gambar": "/assets/img/madu-pahit.png" 
+    },
+    { 
+    "nama": "MADU MULTIFLORA",
+    "harga": 115000,
+    "gambar":"/assets/img/madu-multiflora.png"
+    },
+    { 
+    "nama": "MADU HABBAT",
+    "harga": 130000,
+    "gambar": "/assets/img/madu-habbat.png"
+    },
+    { 
+    "nama": "MADU S JAGA",
+    "harga": 120000,
+    "gambar": "/assets/img/madu-s-jaga.png"
+    },
+    { 
+    "nama": "MADU KENTAL",
+    "harga": 250000,
+    "gambar": "/assets/img/madu-kental.png"
+    }
+]

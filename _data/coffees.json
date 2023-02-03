@@ -1,0 +1,96 @@
+[
+    { 
+    "nama": "CENTELLA TEH SINERGI",
+    "harga": 70000,
+    "gambar":"/assets/img/CENTELLA.png" 
+    },
+    { 
+    "nama": "DATES SYRUP",
+    "harga": 45000,
+    "gambar":"/assets/img/dates-syrup.png" 
+    },
+    { 
+    "nama": "DEEP OLIVE",
+    "harga": 150000,
+    "gambar":"/assets/img/deep-olive.png" 
+    },
+    { 
+    "nama": "ETTA GOAT MILK",
+    "harga": 75000,
+    "gambar":"/assets/img/egm.png" 
+    },
+    { 
+    "nama": "JANNATEA COLD",
+    "harga": 115000,
+    "gambar":"/assets/img/jannatea-cold.png" 
+    },
+    { 
+    "nama": "JANNATEA HOT",
+    "harga": 115000,
+    "gambar": "/assets/img/jannatea-hot.png"
+    },
+    { 
+    "nama": "SINAI OLIVE OIL",
+    "harga": 35000,
+    "gambar": "/assets/img/sinai-olive-oil.png"
+    },
+    { 
+    "nama": "SARI KURMA (SARKUM)",
+    "harga": 50000,
+    "gambar": "/assets/img/sari-kurma.png"
+    },
+    { 
+    "nama": "AL ARD OLIVE OIL",
+    "harga": 200000,
+    "gambar": "/assets/img/al-ard.png"
+    },
+    { 
+    "nama": "HNI COFFEE (HC)",
+    "harga": 125000,
+    "gambar": "/assets/img/hni-coffee.png"
+    },
+    { 
+    "nama": "HANIA SUSU KAMBING (HGM) FULL CREAM",
+    "harga": 195000
+    },
+    { 
+    "nama": "KOPI 7 ELEMEN (SEVEL)",
+    "harga": 110000
+    },
+    { 
+    "nama": "HANIA REALCO CAPPUCCINO",
+    "harga": 130000
+    },
+    { 
+    "nama": "HANIA REALCO LATTE",
+    "harga": 130000
+    },
+    { 
+    "nama": "KOPI 7 ELEMEN PREMIUM (SEVEL PREMI)",
+    "harga": 75000
+    },
+    { 
+    "nama": "ZIDAVIT",
+    "harga": 80000
+    },
+    { 
+    "nama": "REALCO GINSENG COFFEE",
+    "harga": 65000
+    },
+    { 
+    "nama": "ETTA GOAT MILK (EGM) AREN",
+    "harga": 80000
+    },
+    { 
+    "nama": "HNI HEALTH",
+    "harga": 80000
+    },
+    { 
+    "nama": "HANIA GLUTA JUICY DRINK",
+    "harga": 185000
+    },
+    { 
+    "nama": "HANIA JUICY FIBDRINK",
+    "harga": 85000
+    }
+]
